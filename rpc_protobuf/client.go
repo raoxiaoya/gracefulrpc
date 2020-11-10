@@ -6,7 +6,7 @@ import (
 	"net/rpc"
 
 	"github.com/mars9/codec"
-	"gracefulrpc/rpc_protobuf/pbs"
+	"github.com/phprao/gracefulrpc/rpc_protobuf/pbs"
 )
 
 func main() {

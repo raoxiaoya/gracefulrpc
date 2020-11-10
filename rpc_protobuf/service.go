@@ -5,8 +5,8 @@ import (
 	"net/rpc"
 	"time"
 
-	"gracefulrpc"
-	"gracefulrpc/rpc_protobuf/repo"
+	"github.com/phprao/gracefulrpc"
+	"github.com/phprao/gracefulrpc/rpc_protobuf/repo"
 )
 
 func main() {

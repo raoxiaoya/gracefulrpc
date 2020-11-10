@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/rpc"
 
-	"gracefulrpc/rpc_gob/repo"
+	"github.com/phprao/gracefulrpc/rpc_gob/repo"
 )
 
 func main() {

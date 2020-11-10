@@ -1,4 +1,4 @@
-module gracefulrpc
+module github.com/phprao/gracefulrpc
 
 go 1.14
 

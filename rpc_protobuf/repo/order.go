@@ -8,7 +8,7 @@ package repo
 import (
 	"errors"
 
-	message "gracefulrpc/rpc_protobuf/pbs"
+	message "github.com/phprao/gracefulrpc/rpc_protobuf/pbs"
 )
 
 type Order struct {}

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option go_package = "./pbs;message";
+
+package message;
+
+//订单请求参数
+message OrderRequest {
+    string orderId = 1;
+}
+
+//订单信息
+message OrderInfo {
+    string Id = 1;
+    float Price = 2;
+    int64 Status = 3;
+}

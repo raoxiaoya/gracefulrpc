@@ -5,7 +5,7 @@ import (
 	"net/rpc"
 	"time"
 
-	"gracefulrpc/gracefulrpc"
+	"gracefulrpc"
 	"gracefulrpc/rpc_json/repo"
 )
 
